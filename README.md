@@ -6,10 +6,6 @@
 </p>
 
 <p align="left">
-  🦄 Estou aprendendo HTML e CSS. No programa serão abordados lógica de programação e desenvolvimento web, passando por tecnologias  <strong>JavaScript, React, Node.js, banco de dados relacional, introdução à arquitetura de software, banco de dados não relacional e qualidade de software.</strong>
-</p>
-
-<p align="left">
   💼 Experiência profissional: Graduada em Arquitetura e Urbanismo, com experiência profissional há mais de 20 anos no mercado, em busca de uma posição na área da tecnologia.
 </p>
 
