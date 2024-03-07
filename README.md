@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, eu sou a <strong>Carla</strong>.<br>
-  Estudante do Programa Starter Full Stack Web Developer na Growdev .
+  Seja bem vindo(a)!
 </p>
 
 <p align="left">
