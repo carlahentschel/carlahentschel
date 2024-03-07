@@ -6,10 +6,6 @@
 </p>
 
 <p align="left">
-  💼 Experiência profissional: Graduada em Arquitetura e Urbanismo, com experiência profissional há mais de 20 anos no mercado, em busca de uma posição na área da tecnologia.
-</p>
-
-<p align="left">
   😍 Hobbies: Amo estar com meus filhos, amigos e pegar sol.
 </p>
 
